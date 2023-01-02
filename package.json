@@ -1,0 +1,22 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "Aula inicial de back end e node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "brazil": "node index.js Brazil",
+    "letraInicialB": "node BuscarPorLetra.js b",
+    "addPais": "node addPais.js NenaLandia NL"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felipe-Freitasleal/node-package-json-template.git"
+  },
+  "author": "Labenu Ammal A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Felipe-Freitasleal/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/Felipe-Freitasleal/node-package-json-template#readme"
+}
